@@ -22,8 +22,14 @@
 *.obj
 *.srec
 *.suo
+*.sw?
 *.sym
 *.tmp
+*.zip
 AvrBuild.bat
 AVRootloader.dev
 Makefile
+.DS_Store
+.hg/
+.hgignore
+.hgtags

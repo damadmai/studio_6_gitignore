@@ -1,4 +1,5 @@
 *.a
+*.acy
 *.atsuo
 *.avrsuo
 *.aws
@@ -24,4 +25,5 @@
 *.sym
 *.tmp
 AvrBuild.bat
+AVRootloader.dev
 Makefile
